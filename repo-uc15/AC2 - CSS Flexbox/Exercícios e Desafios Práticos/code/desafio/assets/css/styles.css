@@ -1,0 +1,78 @@
+body {
+    background-color: #2B35AF;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+    border-bottom: 5px solid #9400D3;
+    width: 50%;
+    margin: 20px auto;
+}
+.form {
+    height: 35rem;
+    width: 50rem;
+    background-color: #FFF;
+}
+.parts-form{
+    display: flex;
+    justify-content: space-around;
+}
+.lef-part,
+.right-part{
+    width: 25%;
+}
+
+.lef-part input,
+.right-part input{
+    width: 250px;
+    padding: 10px;
+}
+
+.radio{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.radio .gender label{
+    margin-right: 20px;
+}
+
+.create-account{
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+}
+.create-account button{
+    background-color: #7F1CA9;
+    width: 80%;
+    height: 50px;
+    border-radius: 10px;
+    color: #FFF;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.create-account button:hover{
+    height: 55px;
+    transition: 0.5s;
+    font-size: 2rem;
+    background-color: #9400D3;
+}
+
+.dont-have-account,
+.have-an-account{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.25rem;
+}
+.dont-have-account a:hover,
+.have-an-account a:hover{
+    transition: 0.5s;
+    color: #7F1CA9;
+    font-size: 1.5rem;
+}

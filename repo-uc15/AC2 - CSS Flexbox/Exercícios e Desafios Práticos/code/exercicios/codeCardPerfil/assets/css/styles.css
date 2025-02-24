@@ -1,0 +1,51 @@
+main{
+    background-color: #EEE;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    background-color: #FFF;
+    border: 2px solid #DDD;
+    width: 30%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.image-perfil{
+    background-color: #CCC;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container p{
+    font-size: 1.25rem;
+}
+
+.midias-sociais{
+    display: flex;
+    gap: 20px;
+}
+.midias-sociais a{
+    border: 2px solid #000;
+    padding: 5px 10px;
+    border-radius: 50%;
+    font-size: 1.5rem;
+    color: #000;
+}
+
+.midias-sociais a:hover{
+    transition: 0.2s;
+    font-size: 1.7rem;
+    font-weight: bold;
+    border-width: 3px;
+}
