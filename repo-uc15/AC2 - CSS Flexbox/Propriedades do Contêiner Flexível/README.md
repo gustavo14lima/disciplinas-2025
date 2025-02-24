@@ -48,3 +48,4 @@ https://developer.mozilla.org/pt-BR/docs/Web/CSS/flex-flow
 https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/align-items
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/align-content
+https://www.alura.com.br/artigos/css-guia-do-flexbox

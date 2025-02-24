@@ -16,6 +16,7 @@
 
 `align-self`
     A propriedade CSS align-self alinha os itens flex da linha flex alvo, sobreescrevendo o valor align-items. Se alguma dos eixos das margens do dado item está estabelecido como auto, então align-self é ignorado.
+    Permite que o alinhamento padrão (ou o que estiver definido por align-items) seja sobrescrito para ítens individuais.
 
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/order
@@ -24,3 +25,5 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/flex-shrink
 https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/flex
 https://developer.mozilla.org/pt-BR/docs/Web/CSS/align-self
+https://byteiota.com/flexbox-items/
+https://www.alura.com.br/artigos/css-guia-do-flexbox
