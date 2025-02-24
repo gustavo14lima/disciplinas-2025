@@ -1,5 +1,5 @@
 Benefícios do uso de Flexbox no desenvolvimento moderno
-    O Flexbox np desenvolimento moderno é uma ferramenta muito importante para a criação de interfaces, ele pode oferecer um modelo flexível, responsivo e mais fácil de manter. Reproduzino a complexidade do código, melhora a usabilidade e torna o desenvolvimento de layouts mais intuitivo e eficiente.
+    O Flexbox no desenvolimento moderno é uma ferramenta muito importante para a criação de interfaces, ele pode oferecer um modelo flexível, responsivo e mais fácil de manter. Reproduzindo a complexidade do código, melhora a usabilidade e torna o desenvolvimento de layouts mais intuitivo e eficiente.
 Evitando erros comuns ao usar Flexbox
     Para evitar erros com Flexbox, você pode usar essas dicas:
         Sempre definir display: flex; no pai.

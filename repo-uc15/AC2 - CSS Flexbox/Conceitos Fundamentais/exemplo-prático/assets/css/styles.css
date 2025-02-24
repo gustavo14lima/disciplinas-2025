@@ -1,0 +1,24 @@
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+p{
+    width: 50%;
+}
+.div-pai{
+    width: 800px;
+    height: 400px;
+    background-color: #CCC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.div-filho{
+    width: 400px;
+    height: 200px;
+    background-color: #333;
+}
