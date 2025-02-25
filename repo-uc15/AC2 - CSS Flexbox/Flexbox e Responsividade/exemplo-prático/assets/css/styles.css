@@ -1,0 +1,56 @@
+header,
+header nav ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    height: 100px;
+    background-color: #00A8FF;
+}
+header h1,
+header nav ul li a{
+    color: #FFF;
+}
+header h1{
+    font-size: 2rem;
+}
+header nav ul li a{
+    font-size: 1.25rem;
+}
+header nav ul li a:hover{
+    transition: 0.5s;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+main section{
+    display: flex;
+    margin: 2rem auto;
+    width: 70%;
+}
+main section .image{
+    width: 100%;
+    height: 500px;
+    background-color: #DDD;
+}
+main section p{
+    margin: auto 2rem;
+}
+
+footer{
+    background-color: #00A8FF;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer p,
+footer a{
+    font-size: 1.25rem;
+    color: #FFF;
+}
+footer a:hover{
+    transition: 0.5s;
+    font-size: 1.3rem;
+    font-weight: bold;
+}

@@ -1,0 +1,21 @@
+@media (max-width: 480px) and (max-height: 970px){
+    header, 
+    nav{
+        display: flex;
+        flex-wrap: wrap;
+        background-color: #00A8FF;
+    }
+    nav{
+        padding-left: 30px;
+        height: 100%;
+        width: 100%;
+    }
+    section{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    section .image{
+        order: -1;
+        margin: 50px 0 20px 0;
+    }
+}
