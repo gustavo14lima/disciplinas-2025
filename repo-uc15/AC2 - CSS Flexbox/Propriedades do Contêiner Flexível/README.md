@@ -1,4 +1,6 @@
-### `flex-direction`
+# Propriedades do Contêiner Flexível
+
+## `flex-direction`
 A propriedade CSS `flex-direction` define como os itens flexíveis são colocados no contêiner flexível, definindo o eixo principal (eixo X) e a direção (normal ou invertido). Ela pode mudar a ordem de exibição dos itens, podendo ser em linhas ou colunas (ambas invertidas ou normais).
 
 A seguir, explicarei todos os valores para a propriedade `flex-direction`:
@@ -8,7 +10,7 @@ A seguir, explicarei todos os valores para a propriedade `flex-direction`:
 - **column**: itens colocados em uma coluna, de cima para baixo.
 - **column-reverse**: itens colocados em uma coluna, mas com os valores invertidos, de baixo para cima.
 
-### `flex-wrap`
+## `flex-wrap`
 A propriedade CSS `flex-wrap` define se os itens flexíveis são forçados a ficarem na mesma linha ou se podem ser quebradas em várias linhas (pular de linha) com base no tamanho do contêiner e dos itens.  
 Se a junção de todos os itens do contêiner for maior que o próprio contêiner, a propriedade `flex-wrap` decide se os itens vão para a próxima linha ou se eles vão estourar o limite do contêiner.
 
@@ -18,11 +20,11 @@ A seguir, irei explicar os valores do atributo `flex-wrap`:
 - **wrap**: itens quebram em várias linhas, se os itens ultrapassarem o tamanho do container, de cima para baixo.
 - **wrap-reverse**: itens quebram em várias linhas, se os itens ultrapassarem o tamanho do container, de baixo para cima.
 
-### `flex-flow`
+## `flex-flow`
 A propriedade CSS `flex-flow` é uma junção das propriedades `flex-direction` e `flex-wrap`.  
 Ambas propriedades explicadas acima.
 
-### `justify-content`
+## `justify-content`
 A propriedade CSS `justify-content` define como o navegador distribui o espaço entre e ao redor dos itens de conteúdo ao longo do eixo principal (eixo X) de um contêiner flexível.
 
 A seguir, irei apresentar os valores da propriedade `justify-content`:
@@ -33,7 +35,7 @@ A seguir, irei apresentar os valores da propriedade `justify-content`:
 - **space-between**: espaço igual entre os itens.
 - **space-around**: espaço igual ao redor de cada item.
 
-### `align-items` – Alinhamento vertical dos itens
+## `align-items` – Alinhamento vertical dos itens
 A propriedade CSS `align-items` estabelece o alinhamento de um certo item dentro do bloco que o contém. Em Flexbox, ele controla o alinhamento dos itens de acordo com o eixo transversal (eixo Y).
 
 A seguir, irei explicar todos os valores para a propriedade `align-items`:
@@ -44,7 +46,7 @@ A seguir, irei explicar todos os valores para a propriedade `align-items`:
 - **center**: itens centralizados ao longo do eixo transversal (eixo Y).
 - **baseline**: itens alinhados à linha de base de seus conteúdos.
 
-### `align-content` – Alinhamento em múltiplas linhas
+## `align-content` – Alinhamento em múltiplas linhas
 A propriedade CSS `align-content` define a distribuição entre e ao redor dos itens do conteúdo do eixo transversal (eixo Y) de um contêiner.
 
 Agora, explicarei os valores para a propriedade `align-content`:
@@ -57,7 +59,10 @@ Agora, explicarei os valores para a propriedade `align-content`:
 - **space-evenly**: as linhas são distribuídas com espaçamento igual entre elas.
 - **stretch**: as linhas se estendem para preencher o espaço disponível (valor padrão).
 
-### Fontes
+## Exemplo Prático
+[Imagens do Exemplo Prático](https://github.com/gustavo14lima/disciplinas-2025/tree/main/repo-uc15/AC2%20-%20CSS%20Flexbox/Propriedades%20do%20Cont%C3%AAiner%20Flex%C3%ADvel/exemplo-pr%C3%A1tico)
+
+## Fontes
 - [MDN Web Docs - flex-direction](https://developer.mozilla.org/pt-BR/docs/Web/CSS/flex-direction)
 - [MDN Web Docs - flex-wrap](https://developer.mozilla.org/pt-BR/docs/Web/CSS/flex-wrap)
 - [MDN Web Docs - flex-flow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/flex-flow)
