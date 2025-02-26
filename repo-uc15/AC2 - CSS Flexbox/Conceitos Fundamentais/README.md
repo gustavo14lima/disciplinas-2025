@@ -1,4 +1,6 @@
-# O Modelo de Caixa Flexível
+# Conceitos Fundamentais
+
+## O Modelo de Caixa Flexível
 
 O "Modelo de Caixa Flexível" é outra maneira para se relacionar ao Flexbox.  
 E o Flexbox, é um conceito do CSS que organiza os elementos de uma página HTML dentro de seus containers de forma dinâmica.
@@ -16,7 +18,7 @@ justify-content: center;
 
 no elemento pai, os elementos filhos que serão direcionados para o centro.
 
-# Propriedade `display: flex` e seus efeitos
+## Propriedade `display: flex` e seus efeitos
 
 A propriedade `display: flex` funciona de uma maneira diferente dos outros displays.  
 Quando colocamos essa propriedade em um elemento, esse elemento se torna um **flex container**, com isso podemos manipular todos os elementos filhos desse flex container.  
@@ -32,6 +34,9 @@ justify-content: center;
 na `div`, ao invés do parágrafo.  
 
 Por padrão, quando aplicamos `display: flex` para um elemento, todos os filhos ficam **um do lado do outro**, como se estivessem sob o efeito de `display: inline`.
+
+## Exemplo Prático
+[Código do Exemplo Prático](https://github.com/gustavo14lima/disciplinas-2025/tree/main/repo-uc15/AC2%20-%20CSS%20Flexbox/Conceitos%20Fundamentais/exemplo-pr%C3%A1tico)
 
 ## Fontes
 
