@@ -7,6 +7,7 @@ Este repositório contém materiais que estou cursando no 3° E.M no curso técn
 Abaixo, deixei a listadas das disciplinas com links direcionados para cada respectiva disciplina. 
 
 - [UC15 - Design para Web](./repo-uc15)
+- [UC17 - Projeto Integrador III](./repo-uc17)
 
 ## 🧠 Objetivo
 
