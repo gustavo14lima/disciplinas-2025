@@ -8,7 +8,7 @@ Abaixo, deixei a listadas das disciplinas com links direcionados para cada respe
 
 - [UC15 - Design para Web](./repo-uc15)
 - [UC17 - Projeto Integrador III](./repo-uc17)
-- - [UC20 - Programação de Computadores](./repo-uc20)
+- [UC20 - Programação de Computadores](./repo-uc20)
 
 ## 🧠 Objetivo
 
