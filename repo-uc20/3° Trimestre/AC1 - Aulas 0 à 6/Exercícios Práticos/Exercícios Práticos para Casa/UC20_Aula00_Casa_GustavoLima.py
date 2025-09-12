@@ -1,3 +1,11 @@
+'''
+Gere um script que imprime:
+
+    a versão do Python,
+    a versão do pip (via python -m pip --version),
+    a versão do PyQt5 (se instalado; caso contrário, exibir mensagem amigável).
+'''
+
 import sys
 import subprocess
 
